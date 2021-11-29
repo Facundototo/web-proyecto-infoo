@@ -1,0 +1,33 @@
+body{
+  background-color: grey;
+}
+footer{
+  margin-top: 300px;
+}
+footer h2{
+  color: white;
+  margin-top: 7px;
+}
+
+img{
+  width: 96px;
+  height: 96px;
+}
+section{
+  margin-top: 30px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+
+
+.card-img-top{
+  height:300px;
+  width:277px;
+}
+
+.card-body{
+  height: 250px;
+}
+
